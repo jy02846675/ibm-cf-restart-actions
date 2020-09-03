@@ -6,7 +6,7 @@ on:
   watch:
     types: started
   schedule:
-    - cron: 15 20 * * tus
+    - cron: 15 20 * * tue
 
 jobs:
   IBM-Cloud-CF-APP-Restart:
